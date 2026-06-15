@@ -1,4 +1,20 @@
 # TIL
 
-A repository that collects everything I study —  
-Git/Python/SQL notes, coding-test logs, and data/AI experiment records.
+실무 코드를 읽고 수정하는 능력을 키우기 위한 **학습 기록 저장소**.
+
+## 구조
+
+| 폴더 | 용도 |
+|------|------|
+| `study/` | 평일 업무 생존 기본기 (SQL · 프로시저 · 프론트/백 흐름) |
+
+신기술 탐구·실험은 필요할 때 그때그때 폴더를 추가한다.
+
+## 학습 리듬
+
+- **평일:** 업무 생존 기본기에 전부 투자 → `study/`에 기록
+- **주말:** 여유 있을 때 신기술 탐구 (사용자 주도, 별도 비율 강제 없음)
+
+## 시작일
+
+**2026-06-16 (화)** 부터 본격 기록
