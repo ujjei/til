@@ -1,6 +1,9 @@
 # Cursor IDE
 .cursor/
 
+# Personal study context (local only)
+study-role.md
+
 # Python
 __pycache__/
 *.py[cod]
